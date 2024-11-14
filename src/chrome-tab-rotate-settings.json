@@ -26,7 +26,7 @@
         "tabReloadIntervalSeconds": 300  
       },
       {
-        "url": "https://intelycare.lightning.force.com/lightning/r/Dashboard/01ZUN000001D8Qb2AK/view",
+        "url": "https://intelycare.domo.com/page/780102077",
         "duration": 30,
         "tabReloadIntervalSeconds": 300  
       },
