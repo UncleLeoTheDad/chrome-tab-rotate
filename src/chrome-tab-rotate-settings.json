@@ -6,34 +6,14 @@
     "closeExistingTabs": true,
     "websites": [     
       {
-        "url": "https://windmill-dev.intelycare.com/apps/get/f/Release/Reporting/the_morning_monitor",
+        "url": "https://windmill-dev.intelycare.com/a/laynard-status",
         "duration": 30,
         "tabReloadIntervalSeconds": 300  
       },
       {
-        "url": "https://windmill-dev.intelycare.com/apps/get/f/Release/apps/master_build_status",
+        "url": "https://app.asana.com/0/portfolio/1209487619322340/1209488679603738",
         "duration": 30,
         "tabReloadIntervalSeconds": 300  
-      },
-      {
-        "url": "https://app.asana.com/0/portfolio/1204258817444761/list",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 300  
-      },      
-      {
-        "url": "https://intelycare.domo.com/page/566481655",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 300  
-      },
-      {
-        "url": "https://intelycare.domo.com/page/780102077",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 300  
-      },
-      {
-        "url": "https://intelycare.domo.com/page/705064925",
-        "duration": 30,
-        "tabReloadIntervalSeconds": 300
       }
     ]
   }
