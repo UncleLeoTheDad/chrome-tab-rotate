@@ -14,11 +14,6 @@
     {
       "delaySeconds": 30,
       "reloadIntervalSeconds": 60,
-      "url": "https://windmill-dev.intelycare.com/a/lanyard-status-trends?phases=Pre%20MVP"
-    },
-    {
-      "delaySeconds": 30,
-      "reloadIntervalSeconds": 60,
       "url": "https://windmill-dev.intelycare.com/a/lanyard-status-trends"
     },
     {
