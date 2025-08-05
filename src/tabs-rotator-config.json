@@ -3,27 +3,27 @@
   "pages": [
     {
       "delaySeconds": 30,
-      "reloadIntervalSeconds": 30,
+      "reloadIntervalSeconds": 60,
       "url": "https://windmill-dev.intelycare.com/a/lanyard-status"
     },
     {
       "delaySeconds": 30,
-      "reloadIntervalSeconds": 30,
+      "reloadIntervalSeconds": 60,
       "url": "https://windmill-dev.intelycare.com/a/lanyard-status-2"
     },    
     {
       "delaySeconds": 30,
-      "reloadIntervalSeconds": 30,
+      "reloadIntervalSeconds": 60,
       "url": "https://windmill-dev.intelycare.com/a/lanyard-status-trends"
     },
     {
       "delaySeconds": 30,
-      "reloadIntervalSeconds": 30,
+      "reloadIntervalSeconds": 60,
       "url": "https://windmill-dev.intelycare.com/a/priorities"
     },    
     {
       "delaySeconds": 30,
-      "reloadIntervalSeconds": 30,
+      "reloadIntervalSeconds": 60,
       "url": "https://app.asana.com/0/portfolio/1209487619322340/1209488679603738"
     }
   ]
