@@ -4,22 +4,7 @@
     {
       "delaySeconds": 30,
       "reloadIntervalSeconds": 60,
-      "url": "https://windmill-dev.intelycare.com/a/lanyard-status"
-    },
-    {
-      "delaySeconds": 30,
-      "reloadIntervalSeconds": 60,
-      "url": "https://windmill-dev.intelycare.com/a/lanyard-status-2"
-    },    
-    {
-      "delaySeconds": 30,
-      "reloadIntervalSeconds": 60,
-      "url": "https://windmill-dev.intelycare.com/a/lanyard-status-trends"
-    },
-    {
-      "delaySeconds": 30,
-      "reloadIntervalSeconds": 60,
-      "url": "https://congenial-barnacle-v9kr57o.pages.github.io/release-lanyardPhase1/latest-run/reports/cucumber-report.html"
+      "url": "https://congenial-barnacle-v9kr57o.pages.github.io/master/latest-run/reports/cucumber-report.html"
     },
     {
       "delaySeconds": 30,
