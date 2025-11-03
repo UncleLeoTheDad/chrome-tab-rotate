@@ -21,5 +21,10 @@
       "reloadIntervalSeconds": 60,
       "url": "https://monitoring.production.projectlanyard.com:3000/d/417d4f1d-7cw1-927d-804r-5br8b1kc26lj/core-metrics?"
     }
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 60,
+      "url": "https://monitoring.production.projectlanyard.com:3000/goto/sjVBrSzDR?orgId=1"
+    }    
   ]
 }
