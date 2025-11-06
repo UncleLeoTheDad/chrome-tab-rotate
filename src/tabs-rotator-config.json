@@ -19,12 +19,12 @@
     {
       "delaySeconds": 30,
       "reloadIntervalSeconds": 60,
-      "url": "https://monitoring.production.projectlanyard.com:3000/d/417d4f1d-7cw1-927d-804r-5br8b1kc26lj/core-metrics?"
+      "url": "https://monitoring.production.projectlanyard.com:3000/d/417d4f1d-7cw1-927d-804r-5br8b1kc26lj/core-metrics?theme=light"
     },
     {
       "delaySeconds": 30,
       "reloadIntervalSeconds": 60,
-      "url": "https://monitoring.production.projectlanyard.com:3000/goto/sjVBrSzDR?orgId=1"
+      "url": "https://monitoring.production.projectlanyard.com:3000/d/417f8a1d-6cw1-479b-804b-5bh8b1bc34lj/job-overview?orgId=1&from=now-7d&to=now&timezone=browser&var-TimeBucket=Day&theme=light"
     }    
   ]
 }
